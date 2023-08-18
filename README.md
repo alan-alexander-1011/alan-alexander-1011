@@ -1,16 +1,16 @@
-### Hi there 👋
+**Hi, I'm AlanZMD**
 
-<!--
-**alan-alexander-2011/alan-alexander-2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+>A amateur Vietnamese programmer (might be software engineer/cyber security in the future).\
+>I usually do open source application and open source code with MIT or GNU GPLv3 license\
+Now, I'm using Python as my main programming language💻.\
+📖I'm learning C++,Web3.\
+🛠I'm working on two of my projects are: **Discord.py** bot and **Kingdom of Ants** game.🎮\
+And i store my (useless/test)code on [My Mediafire(test folder)](https://www.mediafire.com/folder/hx5o8enbyn1nt/My_test_folder).\
+My [virtual machine files/folders](https://www.mediafire.com/folder/8cnsftlplsolq/virutal_machine) (might useful)
 
-Here are some ideas to get you started:
+[![My Codewars](https://www.codewars.com/users/alanzmd/badges/large)](https://www.codewars.com/users/alanzmd/badges/large)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=alan-alexander-2011)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alan-alexander-2011)](https://github.com/anuraghazra/github-readme-stats)
