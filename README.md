@@ -5,7 +5,7 @@ About me:
 >I usually do open source application and open source code with MIT or GNU GPLv3 license\
 Now, I'm using Python as my main programming language💻.\
 📖I'm learning C++,Web3.\
-🛠I'm working on two of my projects are: **Discord.py** bot and **Kingdom of Ants** game.🎮\
+🛠I'm working on two of my projects are: **Discord.py** bot , cliPy and **Kingdom of Ants** game.🎮\
 And i store my (useless/test)code on [My Mediafire(test folder)](https://www.mediafire.com/folder/hx5o8enbyn1nt/My_test_folder).\
 My [virtual machine files/folders](https://www.mediafire.com/folder/8cnsftlplsolq/virutal_machine) (might useful)
 
