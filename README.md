@@ -6,7 +6,7 @@ About me:
 >Now, I'm using Python as my main programming language💻.\
 >📖I'm learning C++,Web3.\
 >🛠I'm working on two of my projects are: **`Discord.py`** bot and **`cliPy`**\
->and i like to sometimes test on virtual machine**s**\
+>and i like to sometimes test on virtual machine**s**
 
 [![My Codewars](https://www.codewars.com/users/alanzmd/badges/large)](https://www.codewars.com/users/alanzmd/badges/large)
 
