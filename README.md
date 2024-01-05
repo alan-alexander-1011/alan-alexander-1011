@@ -4,7 +4,7 @@ About me:
 >A amateur Vietnamese programmer (might be software engineer/cyber security in the future).\
 >I usually do open source application and open source code with MIT or GNU GPLv3 license\
 >Now, I'm using Python as my main programming language💻.\
->📖I'm learning C++,Web3.\
+>📖I'm learning C++,Web3, game dev.\
 >🛠I'm working on two of my projects are: **`Discord.py`** bot and **`cliPy`**\
 >and i like to sometimes test on virtual machine**s**
 
