@@ -8,7 +8,7 @@ About me:
 >🛠I'm working on two of my projects are: **`cliPy`** and **`pymacro`**\
 >and i like to sometimes test on virtual machine**s**
 
-[![My Codewars](https://www.codewars.com/users/alanzmd/badges/large)](https://www.codewars.com/users/alanzmd/badges/large)
+[![My Codewars](https://www.codewars.com/users/alan_alexander/badges/large)](https://www.codewars.com/users/alan_alexander/badges/large)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alan-alexander-1011&theme=apprentice&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
