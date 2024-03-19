@@ -6,6 +6,7 @@ About me:
 >Now, I'm using Python as my main programming language💻.\
 >📖I'm learning C++,Web3, game dev.\
 >🛠I'm working on two of my projects are: **`cliPy`** and **`pymacro`**\
+>and expect a quadrillion sub-sub-projects.\
 >and i like to sometimes test on virtual machine**s**
 
 [![My Codewars](https://www.codewars.com/users/alan_alexander/badges/large)](https://www.codewars.com/users/alan_alexander/badges/large)
